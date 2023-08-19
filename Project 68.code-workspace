@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Project 68",
+			"path": "."
+		},
+		{
+			"name": "C69-BLOG",
+			"path": "../C69-BLOG"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project 68"
+	}
+}
